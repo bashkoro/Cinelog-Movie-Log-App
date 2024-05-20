@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Cinelog</string>
+    <string name="logo">Logo</string>
+    <string name="your_movie_logs">Your Movie Logs</string>
+    <string name="search">Search</string>
+    <string name="poster">Poster</string>
+    <string name="rewwatch">Rewatch</string>
+    <string name="add_log">Add Log</string>
+    <string name="title">Title</string>
+    <string name="save">Save</string>
+    <string name="year">Year Release</string>
+    <string name="watch_date">Watch Date</string>
+    <string name="rewatched">Rewatched</string>
+    <string name="filter">Filter</string>
+    <string name="genre">Genre</string>
+    <string name="apply">Apply</string>
+    <string name="review">Review</string>
+    <string name="detail_log">Detail Log</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="edit_log">Edit Log</string>
+    <string name="film_not_found">Film not found. Swipe down to refresh</string>
+    <string name="no_films">No movies watched</string>
+    <string-array name="genres">
+        <item>Action</item>
+        <item>Comedy</item>
+        <item>Horror</item>
+        <item>Thriller</item>
+        <item>Drama</item>
+    </string-array>
+    <string-array name="filter_genres">
+        <item>All</item>
+        <item>Action</item>
+        <item>Comedy</item>
+        <item>Horror</item>
+        <item>Thriller</item>
+        <item>Drama</item>
+    </string-array>
+</resources>
